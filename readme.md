@@ -7,7 +7,7 @@ A relatively simple amazon.com crawler written in python. It has the following f
  * can be paused and restarted without losing its place
  * logs progress and warning conditions to a file for later analysis
 
-It was used to pull over 1MM+ products and their images from amazon in a few hours. [Read more]().
+It was used to pull over 1MM+ products and their images from amazon in a few hours. [Read more](https://blog.hartleybrody.com/scrape-amazon/#crawl-lessons) - [Mirror](https://web.archive.org/web/20211011061751/https://blog.hartleybrody.com/scrape-amazon/#crawl-lessons).
 
 ## Getting it Setup
 After you get a copy of this codebase pulled down locally (either downloaded as a zip or git cloned), you'll need to install the python dependencies:
